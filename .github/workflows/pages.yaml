@@ -1,4 +1,4 @@
-ame: pages
+name: pages
 
 on:
   push:
